@@ -1,0 +1,684 @@
+{
+    "Adrian_Costica": {
+        "valid_channels": [
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "n_valid_channels": 6,
+        "channels_zeroed_reason": {
+            "1": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "6": [
+                "static_rms",
+                "static_mnf"
+            ]
+        }
+    },
+    "Alexandru_Lefterache": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ]
+        }
+    },
+    "arianna_manolache": {
+        "valid_channels": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "1": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "6": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "7": [
+                "static_rms",
+                "static_mnf"
+            ]
+        }
+    },
+    "Baron_Lucian": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Batrinu_Corneliu": {
+        "valid_channels": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "beatrice_rizan": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 0,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "4": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Borta_Eduard": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Carp_Bogdan": {
+        "valid_channels": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_rms",
+                "static_mnf"
+            ]
+        }
+    },
+    "Catalina_Costache": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "n_valid_channels": 7,
+        "channels_zeroed_reason": {
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Cosmin_Popa": {
+        "valid_channels": [
+            true,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Cristina_Ristache": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "n_valid_channels": 6,
+        "channels_zeroed_reason": {
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Diaconu_Adrian": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Diana_Bratu": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            false,
+            true
+        ],
+        "n_valid_channels": 3,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Dumitru_Antonia": {
+        "valid_channels": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Eduard_Voicu": {
+        "valid_channels": [
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "4": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Gaina_Anca": {
+        "valid_channels": [
+            true,
+            false,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 3,
+        "channels_zeroed_reason": {
+            "1": [
+                "static_mnf"
+            ],
+            "4": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Grozavu_Catalin": {
+        "valid_channels": [
+            false,
+            true,
+            true,
+            false,
+            true,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 3,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Iulia_Orvash": {
+        "valid_channels": [
+            true,
+            false,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 2,
+        "channels_zeroed_reason": {
+            "1": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "4": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "iulia_turcoman": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Meche_Mircea": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false,
+            true
+        ],
+        "n_valid_channels": 6,
+        "channels_zeroed_reason": {
+            "4": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Paulet_Oana": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false,
+            false
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "4": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "rares_rodean": {
+        "valid_channels": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "n_valid_channels": 6,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Razvan_Stancu": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 2,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_rms",
+                "static_mnf"
+            ]
+        }
+    },
+    "Samir_Kurbissa": {
+        "valid_channels": [
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            false,
+            false
+        ],
+        "n_valid_channels": 4,
+        "channels_zeroed_reason": {
+            "1": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "2": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "6": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "7": [
+                "static_rms",
+                "static_mnf"
+            ]
+        }
+    },
+    "simina_stroe": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            true
+        ],
+        "n_valid_channels": 6,
+        "channels_zeroed_reason": {
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Teodora_Mirzan": {
+        "valid_channels": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            false,
+            true,
+            true
+        ],
+        "n_valid_channels": 5,
+        "channels_zeroed_reason": {
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ]
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "arianna_manolache": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "beatrice_rizan": {
+        "valid_channels": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "n_valid_channels": 0,
+        "channels_zeroed_reason": {
+            "0": [
+                "static_mnf"
+            ],
+            "1": [
+                "static_mnf"
+            ],
+            "2": [
+                "static_mnf"
+            ],
+            "3": [
+                "static_mnf"
+            ],
+            "4": [
+                "static_rms",
+                "static_mnf"
+            ],
+            "5": [
+                "static_mnf"
+            ],
+            "6": [
+                "static_mnf"
+            ],
+            "7": [
+                "static_mnf"
+            ]
+        }
+    },
+    "Catalina_Costache": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Cristina_Ristache": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Diana_Bratu": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Dumitru_Antonia": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Gaina_Anca": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Iulia_Orvash": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "iulia_turcoman": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Paulet_Oana": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "simina_stroe": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    },
+    "Teodora_Mirzan": {
+        "valid_channels": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "n_valid_channels": 8,
+        "channels_zeroed_reason": {}
+    }
+}

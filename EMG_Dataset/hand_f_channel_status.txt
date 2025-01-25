@@ -1,0 +1,63 @@
+Channel Status by Person:
+==================================================
+
+Subject: arianna_manolache
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: beatrice_rizan
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Catalina_Costache
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Cristina_Ristache
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Diana_Bratu
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Dumitru_Antonia
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Gaina_Anca
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Iulia_Orvash
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: iulia_turcoman
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Paulet_Oana
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: simina_stroe
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Teodora_Mirzan
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+

@@ -1,0 +1,250 @@
+Channel Status by Person:
+==================================================
+
+Subject: Adrian_Costica
+Valid channels: [True, False, True, True, True, True, False, True]
+Number of valid channels: 6
+Zeroed channels and reasons:
+  Channel 2: static_rms, static_mnf
+  Channel 7: static_rms, static_mnf
+------------------------------
+
+Subject: Alexandru_Lefterache
+Valid channels: [False, False, False, False, True, True, True, True]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+------------------------------
+
+Subject: arianna_manolache
+Valid channels: [False, False, True, True, True, True, False, False]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 1: static_rms, static_mnf
+  Channel 2: static_rms, static_mnf
+  Channel 7: static_rms, static_mnf
+  Channel 8: static_rms, static_mnf
+------------------------------
+
+Subject: Baron_Lucian
+Valid channels: [False, False, False, True, True, True, True, False]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Batrinu_Corneliu
+Valid channels: [False, True, True, True, True, False, False, False]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 6: static_rms, static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: beatrice_rizan
+Valid channels: [False, False, False, False, False, False, False, False]
+Number of valid channels: 0
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+  Channel 5: static_rms, static_mnf
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Borta_Eduard
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Carp_Bogdan
+Valid channels: [False, False, True, True, True, True, True, False]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 8: static_rms, static_mnf
+------------------------------
+
+Subject: Catalina_Costache
+Valid channels: [True, True, True, True, True, True, True, False]
+Number of valid channels: 7
+Zeroed channels and reasons:
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Cosmin_Popa
+Valid channels: [True, False, False, False, True, True, True, True]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+------------------------------
+
+Subject: Cristina_Ristache
+Valid channels: [True, True, True, True, True, True, False, False]
+Number of valid channels: 6
+Zeroed channels and reasons:
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Diaconu_Adrian
+Valid channels: [False, False, False, True, True, True, True, True]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+------------------------------
+
+Subject: Diana_Bratu
+Valid channels: [False, False, False, False, True, True, False, True]
+Number of valid channels: 3
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_rms, static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+  Channel 7: static_mnf
+------------------------------
+
+Subject: Dumitru_Antonia
+Valid channels: [False, False, True, True, True, True, True, False]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Eduard_Voicu
+Valid channels: [True, True, False, False, False, False, True, True]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+  Channel 5: static_mnf
+  Channel 6: static_mnf
+------------------------------
+
+Subject: Gaina_Anca
+Valid channels: [True, False, True, True, False, False, False, False]
+Number of valid channels: 3
+Zeroed channels and reasons:
+  Channel 2: static_mnf
+  Channel 5: static_rms, static_mnf
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Grozavu_Catalin
+Valid channels: [False, True, True, False, True, False, False, False]
+Number of valid channels: 3
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 4: static_mnf
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Iulia_Orvash
+Valid channels: [True, False, True, False, False, False, False, False]
+Number of valid channels: 2
+Zeroed channels and reasons:
+  Channel 2: static_mnf
+  Channel 4: static_mnf
+  Channel 5: static_mnf
+  Channel 6: static_rms, static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: iulia_turcoman
+Valid channels: [False, False, False, False, True, True, True, True]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+------------------------------
+
+Subject: Meche_Mircea
+Valid channels: [True, True, True, True, False, True, False, True]
+Number of valid channels: 6
+Zeroed channels and reasons:
+  Channel 5: static_mnf
+  Channel 7: static_mnf
+------------------------------
+
+Subject: Paulet_Oana
+Valid channels: [True, True, True, True, False, True, False, False]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 5: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: rares_rodean
+Valid channels: [False, True, True, True, True, True, False, True]
+Number of valid channels: 6
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 7: static_mnf
+------------------------------
+
+Subject: Razvan_Stancu
+Valid channels: [False, False, False, True, True, False, False, False]
+Number of valid channels: 2
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_rms, static_mnf
+------------------------------
+
+Subject: Samir_Kurbissa
+Valid channels: [True, False, False, True, True, True, False, False]
+Number of valid channels: 4
+Zeroed channels and reasons:
+  Channel 2: static_rms, static_mnf
+  Channel 3: static_rms, static_mnf
+  Channel 7: static_rms, static_mnf
+  Channel 8: static_rms, static_mnf
+------------------------------
+
+Subject: simina_stroe
+Valid channels: [True, True, True, True, True, False, False, True]
+Number of valid channels: 6
+Zeroed channels and reasons:
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+------------------------------
+
+Subject: Teodora_Mirzan
+Valid channels: [True, True, False, False, True, False, True, True]
+Number of valid channels: 5
+Zeroed channels and reasons:
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+  Channel 6: static_mnf
+------------------------------
+

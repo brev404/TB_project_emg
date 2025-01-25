@@ -1,0 +1,82 @@
+Channel Status by Person:
+==================================================
+
+Subject: Adrian_Costica
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Alexandru_Lefterache
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Baron_Lucian
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Batrinu_Corneliu
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Borta_Eduard
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Carp_Bogdan
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Cosmin_Popa
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Diaconu_Adrian
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Eduard_Voicu
+Valid channels: [False, False, False, False, False, False, False, False]
+Number of valid channels: 0
+Zeroed channels and reasons:
+  Channel 1: static_mnf
+  Channel 2: static_mnf
+  Channel 3: static_mnf
+  Channel 4: static_mnf
+  Channel 5: static_mnf
+  Channel 6: static_mnf
+  Channel 7: static_mnf
+  Channel 8: static_mnf
+------------------------------
+
+Subject: Grozavu_Catalin
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Meche_Mircea
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: rares_rodean
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Razvan_Stancu
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
+Subject: Samir_Kurbissa
+Valid channels: [True, True, True, True, True, True, True, True]
+Number of valid channels: 8
+------------------------------
+
