@@ -27,7 +27,8 @@ def main():
     # Example usage: Analyze all hand exercises for females
     pre_dict, post_dict, dataset_path, metadata_json, metadata_txt = analyze_and_plot_emg_with_zeros(
         data_type='Hand', 
-        exercise_num=1
+        exercise_num=1,
+        gender='m'
     )
     
     # Load the saved dataset if needed
